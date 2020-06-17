@@ -111,6 +111,7 @@ table.center-on-narrow {
 	display: inline-block !important;
 }
 
+.a href="https://qdl8518.qithub.io/web2/"	
 	
 </style>
 </head>
@@ -123,11 +124,11 @@ table.center-on-narrow {
             <tr>
               <td style="padding: 20px 0; text-align: center"><img src="images/Image_200x50.png" width="200" height="50" alt="alt_text" border="0"></td>
             </tr>
-        <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;"> (Optional) This text will appear in the inbox preview, but not the email body. </div>
+        <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;"> </div>
       
         
         <div style="max-width: 680px;">
-<table cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff" width="100%" style="max-width: 680px;">
+        <table cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff" width="100%" style="max-width: 680px;">
        
             <tr>
               <td class="full-width-image" align="center"><img src="images/html/images/images/images/kk.jpg" alt="alt_text" width="1175" height="481"  style="width: 100%; max-width: 680px; height: auto;" border="0"></td>
@@ -135,15 +136,13 @@ table.center-on-narrow {
           
             <tr>
               <td><table cellspacing="0" cellpadding="0" border="0" width="100%">
-                  <tr>
-                 
-                     
+         
                
                       
              </td>
-                  </tr>
+                  
                 </table></td>
-            </tr>
+           
            
             <tr>
               <td background="images/Image_680x230.png" bgcolor="#222222" valign="middle" style="text-align: center; background-position: center center !important; background-size: cover !important;">
@@ -223,7 +222,7 @@ table.center-on-narrow {
 							나이,업적,환경,이름 등 소개 </td>
                       </tr>
                                <tr>
-                                  <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"><a href="http://www.google.com" style="background: 937362; border: 15px solid #222222; padding: 0 10px;color: #ffffff; font-family: sans-serif; font-size: 13px; line-height: 1.0; text-align: center; text-decoration: none; display: block; border-radius: 1px; font-weight: bold;" class="button-a"> 
+                                  <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"><a href="C:/Users/김현수/Desktop/index(1-3).html" style="background: 937362; border: 15px solid #222222; padding: 0 10px;color: #ffffff; font-family: sans-serif; font-size: 13px; line-height: 1.0; text-align: center; text-decoration: none; display: block; border-radius: 1px; font-weight: bold;" class="button-a"> 
                                    Click me
                                     </a></td>
                                 </tr>
@@ -245,7 +244,7 @@ table.center-on-narrow {
                         <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align: center;" class="center-on-narrow"> <h4>자료 </h4>여성 독립운동가들의 관련 기사, 영화, 책 등 자료를 소개  </td>
                       </tr>
                                   <tr>
-                                  <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"><a href="http://www.google.com" style="background: #222222; border: 15px solid #222222; padding: 0 10px;color: #ffffff; font-family: sans-serif; font-size: 13px; line-height: 1.0; text-align: center; text-decoration: none; display: block; border-radius: 1px; font-weight: bold;" class="button-a"> 
+                                  <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"><a href="file:///C:/Users/%EA%B9%80%ED%98%84%EC%88%98/Desktop/index(1-1).html" style="background: #222222; border: 15px solid #222222; padding: 0 10px;color: #ffffff; font-family: sans-serif; font-size: 13px; line-height: 1.0; text-align: center; text-decoration: none; display: block; border-radius: 1px; font-weight: bold;" class="button-a"> 
                                    Click me
                                     </a></td>
                                 </tr>
@@ -265,7 +264,7 @@ table.center-on-narrow {
                         <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align: center;" class="center-on-narrow"> <h4>박물관</h4>여성 독립운동가들과 관련된 박물관의 위치, 장소 등 소개 </td>
                       </tr>
                                    <tr>
-                                  <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"><a href="http://www.google.com" style="background: #222222; border: 15px solid #222222; padding: 0 10px;color: #ffffff; font-family: sans-serif; font-size: 13px; line-height: 1.0; text-align: center; text-decoration: none; display: block; border-radius: 1px; font-weight: bold;" class="button-a"> 
+                                  <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"><a href="file:///C:/Users/%EA%B9%80%ED%98%84%EC%88%98/Desktop/index(1-2).html" style="background: #222222; border: 15px solid #222222; padding: 0 10px;color: #ffffff; font-family: sans-serif; font-size: 13px; line-height: 1.0; text-align: center; text-decoration: none; display: block; border-radius: 1px; font-weight: bold;" class="button-a"> 
                                    Click me
                                     </a></td>
                                 </tr>
